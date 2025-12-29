@@ -28,7 +28,7 @@ def display_result(original, sketch, save_path=None):
 def main():
     path = input("Enter the path name: ")
     if path == "":
-        path = 'dawg.png'
+        path = 'test0.png'
     save_path = input("Enter where should the image be saved: ")
     original, sketch = pencil_sketch(image_path=path)
     display_result(original, sketch, save_path)
