@@ -14,10 +14,20 @@
 ##  Project Structure
 ```
 .
+.
 ├── pencil_sketch.py
 ├── README.md
 ├── dawg.png   (default image)
-└── video_sketch.py (bonus)
+├── video_sketch.py   (bonus)
+├── test0.png
+├── test1.png
+├── test2.png
+├── test3.png
+├── sketch0.png
+├── sketch1.png
+├── sketch2.png
+└── sketch3.png
+
 ```
 
 ---
