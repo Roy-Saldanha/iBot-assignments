@@ -1,0 +1,4 @@
+The number of circles are 16
+The smallest radius found in the set is 47.900001525878906
+The largest radius found in the set is 58.20000076293945
+The average radius in the set is 52.40625
