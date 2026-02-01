@@ -49,7 +49,7 @@ def save_statistics(circles, save_path=None):
 
 
 def main():
-    path = 'test3.png'
+    path = input("Enter the path of the image: ")
     image = cv2.imread(path)
     circles = detect_circles(preprocess_image(path))
     visualization = visualize_circles(image, circles, '/Users/saldanha.roy/Desktop')
