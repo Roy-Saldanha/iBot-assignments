@@ -14,7 +14,6 @@
 ##  Project Structure
 ```
 .
-.
 ├── pencil_sketch.py
 ├── README.md
 ├── dawg.png   (default image)
